@@ -1,0 +1,25 @@
+ body {
+   font-family: 'Josefin Sans', sans-serif;
+ }
+ 
+ section h1 {
+   background-color: cornflowerblue; 
+ }
+
+ h1 {
+   background-color: red;
+ }
+
+ .summary-title {
+   background-color: aqua;
+ }
+
+ header {
+   text-align: center;
+ }
+
+ header h1:hover{
+   color: red;
+ }
+
+ 
